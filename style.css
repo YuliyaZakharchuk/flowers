@@ -127,3 +127,75 @@
     font-size: 25px;
     margin-top: 7%;
 }
+
+.conecting-with-us {
+    background-color: darkslateblue;
+    height: 300px;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.conecting-with-us-title {
+    color: #FCF06A;
+    font-size: 40px;
+}
+
+.conecting-with-us-second {
+    color: #E67255;
+    font-size: 20px;
+}
+
+.conecting-with-us-three {
+    color: #55E6B1;
+    font-size: 20px;
+}
+
+.conecting-with-us-button {
+    background-color: #9575FF;
+    color: #FCF06A;
+    font-size: 20px;
+    margin-top: 5%;
+    position: relative;
+    left: 35%;
+    width: 250px;
+    height: 50px;
+}
+
+.ask-me {
+    height: 300px;
+    width: 400px;
+    float: left;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-top: 2%;
+}
+
+.ask-me-form {
+    background-color: #FCF06A;
+    height: 400px;
+    width: 400px;
+    float: right;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    margin-top: 2%;
+    margin-right: 3%;
+}
+
+.ask-me-form-margin {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 5%;
+    margin-left: 5%;
+    width: 37%;
+}
+
+.ask-me-form-long {
+    width: 87%;
+}
+
+.without-border {
+    border: 0px;
+}
