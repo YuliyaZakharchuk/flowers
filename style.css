@@ -1,8 +1,20 @@
 .header {
-    background-color: blue;
+    background-color: #FCF06A;
     width: 100%;
-    height: 30px;
+    height: 150px;
     color: darkcyan;
+}
+
+.header-right {
+    float: right;
+    text-align: right;
+    padding: 5% 2% 5% 2%;
+}
+
+div.header-right>a {
+    font-size: 20px;
+    text-decoration: none;
+    padding: 0 5px 0 5px;
 }
 
 .main {
@@ -46,6 +58,13 @@
     position: relative;
     margin-left: 5%;
     margin-right: 5%;
+}
+
+.margin-5-top {
+    position: relative;
+    margin-left: 5%;
+    margin-right: 2%;
+    margin-top: 2%;
 }
 
 .margin-1 {
