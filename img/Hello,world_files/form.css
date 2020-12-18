@@ -1,0 +1,32 @@
+.ask-me {
+    height: 300px;
+    width: 400px;
+    float: left;
+    padding-left: 5%;
+    padding-right: 5%;
+    margin-top: 2%;
+}
+
+.ask-me-form {
+    background-color: #FCF06A;
+    height: 400px;
+    width: 400px;
+    float: right;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 5%;
+    margin-top: 2%;
+    margin-right: 3%;
+}
+
+.ask-me-form-margin {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    margin-right: 5%;
+    margin-left: 5%;
+    width: 37%;
+}
+
+.ask-me-form-long {
+    width: 87%;
+}

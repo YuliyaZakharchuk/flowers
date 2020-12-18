@@ -1,0 +1,40 @@
+.conecting-with-us {
+    background-color: #4A7856;
+    height: 300px;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.conecting-with-us-title {
+    color: #FCF06A;
+    font-size: 40px;
+}
+
+.conecting-with-us-second {
+    color: #E67255;
+    font-size: 20px;
+}
+
+.conecting-with-us-three {
+    color: #55E6B1;
+    font-size: 20px;
+}
+
+.conecting-with-us-button {
+    background-color: #345830;
+    color: #FCF06A;
+    font-size: 20px;
+    margin-top: 5%;
+    position: relative;
+    left: 35%;
+    width: 250px;
+    height: 50px;
+    border: none;
+    border-radius: 30px;
+}
+
+.conecting-with-us-button:hover {
+    background-color: yellowgreen;
+}

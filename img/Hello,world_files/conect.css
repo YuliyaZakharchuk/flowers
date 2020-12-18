@@ -1,0 +1,34 @@
+.conecting-with-us {
+    background-color: darkslateblue;
+    height: 300px;
+    padding-left: 20%;
+    padding-right: 20%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.conecting-with-us-title {
+    color: #FCF06A;
+    font-size: 40px;
+}
+
+.conecting-with-us-second {
+    color: #E67255;
+    font-size: 20px;
+}
+
+.conecting-with-us-three {
+    color: #55E6B1;
+    font-size: 20px;
+}
+
+.conecting-with-us-button {
+    background-color: #9575FF;
+    color: #FCF06A;
+    font-size: 20px;
+    margin-top: 5%;
+    position: relative;
+    left: 35%;
+    width: 250px;
+    height: 50px;
+}

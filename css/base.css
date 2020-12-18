@@ -1,0 +1,156 @@
+.header {
+    background-color: #08415c;
+    width: 100%;
+    height: 130px;
+    color: #94ECBE;
+}
+
+.header-right {
+    float: right;
+    text-align: right;
+    padding: 5% 2% 5% 2%;
+}
+
+div.header-right>a {
+    font-size: 20px;
+    color: #94ECBE;
+    text-decoration: none;
+    padding: 0 5px 0 5px;
+}
+
+div.header-right>a:hover {
+    color: #2e8514;
+}
+
+.main {
+    background-color: #1E4D46;
+    width: 100%;
+}
+
+.footer {
+    background-color: #4A7856;
+    width: 100%;
+    height: 300px;
+}
+
+.footer-color-text {
+    color: #1E4D46;
+}
+
+.footer-color-text:hover {
+    color: turquoise;
+}
+
+.block-long {
+    width: 100%;
+    height: 500px;
+}
+
+.block-short {
+    width: 100%;
+    height: 220px;
+    background-color: darkslateblue;
+}
+
+.block-very-long {
+    width: 100%;
+    height: 1100px;
+}
+
+.center {
+    text-align: center;
+}
+
+.margin-15 {
+    position: relative;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.margin-5 {
+    position: relative;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.margin-5-top {
+    padding: 1% 1% 1% 1%;
+    border-radius: 30px;
+}
+
+.margin-1 {
+    position: relative;
+    margin-left: 1%;
+    margin-right: 1%;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.image {
+    height: 105px;
+    width: 200px;
+}
+
+.image1 {
+    height: 98px;
+    width: 98px;
+    border-radius: 20%;
+}
+
+.color-blue {
+    color: #94ECBE;
+}
+
+.color-fiolet {
+    color: #8D5EFE;
+}
+
+.color-orange {
+    color: #E67255;
+}
+
+.color-ligth-blue {
+    color: #55E6B1;
+}
+
+.color-light-fiolet {
+    color: #9575FF;
+}
+
+.without-border {
+    border: 0px;
+}
+
+.image-social {
+    height: 20px;
+    width: 20px;
+}
+
+.about-company {
+    float: left;
+    height: 100px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 5%;
+    padding-left: 5%;
+    width: 40%;
+}
+
+.text-decoration {
+    text-decoration: none;
+}
+
+.conect-with-us {
+    height: 100px;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 5%;
+    padding-left: 5%;
+}
+
+.footer-text {
+    font-size: 12px;
+    color: black;
+}
