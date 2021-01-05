@@ -8,7 +8,7 @@
 }
 
 .ask-me-form {
-    background-color: #FCF06A;
+    background-color: #345830;
     height: 400px;
     width: 400px;
     float: right;
@@ -17,6 +17,7 @@
     padding-bottom: 5%;
     margin-top: 2%;
     margin-right: 3%;
+    border-radius: 30px;
 }
 
 .ask-me-form-margin {
@@ -25,6 +26,10 @@
     margin-right: 5%;
     margin-left: 5%;
     width: 37%;
+}
+
+.ask-me-form-margin:hover {
+    background-color: yellowgreen;
 }
 
 .ask-me-form-long {

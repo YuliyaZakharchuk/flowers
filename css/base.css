@@ -119,6 +119,14 @@ div.header-right>a:hover {
     color: #9575FF;
 }
 
+.color-wheat {
+    color: wheat;
+}
+
+.color-white {
+    color: white;
+}
+
 .without-border {
     border: 0px;
 }
