@@ -1,0 +1,34 @@
+@media(max-width:972px) {
+    .header-right {
+        text-align: center;
+    }
+}
+
+@media(max-width:760px) {
+    .header {
+        height: 70px;
+    }
+    .image {
+        height: 60%;
+        width: 20%;
+    }
+    .menu__btn {
+        display: flex;
+        padding-top: 30px;
+        float: right;
+        padding-right: 20px;
+    }
+    .menu__btn::before {
+        margin-top: 30px;
+    }
+    .header-right {
+        display: block;
+    }
+    div.header-right>a {
+        display: block;
+        padding: 10px 5px 10px 0;
+        right: 0;
+        left: 0;
+        text-align: center;
+    }
+}
