@@ -1,5 +1,20 @@
 .new-sort {
-    padding-top: 1%;
+    padding-top: 3%;
     padding-bottom: 2%;
     background-color: #134751;
+    height: 280px;
+}
+
+.name-flower {
+    float: left;
+    text-align: center;
+    padding: 50px 35px 50px 33px;
+    color: ivory;
+    font-size: 20px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.name-flower>a {
+    color: #2e8514;
 }
