@@ -6,13 +6,18 @@
 }
 
 .name-flower {
-    float: left;
     text-align: center;
-    padding: 50px 35px 50px 33px;
     color: ivory;
     font-size: 20px;
     cursor: pointer;
     text-decoration: none;
+}
+
+.flower {
+    float: left;
+    margin: 20px;
+    height: 100px;
+    width: 100px;
 }
 
 .name-flower>a {

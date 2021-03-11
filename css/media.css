@@ -23,6 +23,7 @@
     }
     .header-right {
         display: block;
+        transform: translateY(-1000%);
     }
     div.header-right>a {
         display: block;
@@ -30,5 +31,8 @@
         right: 0;
         left: 0;
         text-align: center;
+    }
+    .header-right.header-right-active {
+        transform: translateY(0%);
     }
 }

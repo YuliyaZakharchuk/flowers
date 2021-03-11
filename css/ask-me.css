@@ -9,7 +9,7 @@
 
 .ask-me-form {
     background-color: #345830;
-    height: 400px;
+    height: 380px;
     width: 400px;
     float: right;
     padding-left: 5%;
@@ -18,14 +18,21 @@
     margin-top: 2%;
     margin-right: 3%;
     border-radius: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
 .ask-me-form-margin {
-    margin-top: 5%;
-    margin-bottom: 5%;
-    margin-right: 5%;
-    margin-left: 5%;
+    margin-top: 1%;
+    margin-bottom: 1%;
+    margin-right: 1%;
+    margin-left: 1%;
+    padding: 12px 20px;
     width: 37%;
+    border-radius: 4px;
+}
+
+select.ask-me-form-margin {
+    width: 97%;
 }
 
 .ask-me-form-margin:hover {
@@ -34,4 +41,15 @@
 
 .ask-me-form-long {
     width: 87%;
+}
+
+button.ask-me-form-margin {
+    width: 388px;
+    background-color: wheat;
+    color: black;
+    font-size: 18px;
+}
+
+.size {
+    height: 90px;
 }
